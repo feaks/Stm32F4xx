@@ -1,0 +1,14 @@
+S 	GUI_DEBUG_LEVEL 		1 		（目标系统）
+												4 		（仿真系统）定义调试等级，决定了 emWin 执行的检验数 （置位数），以及是否输出调试错误、警告和消息。调试等级越高，产生的代码越大。
+N 	GUI_MAXTASK 				4			 定义在启用多任务时可用于访问 emWin 的最大任务数 （请参见 “执行模型：单任务 / 多任务”（第277 页））。
+F 	GUI_MEMCPY 				 --- 		 该宏允许取代 memcpy 函数。
+F 	GUI_MEMSET 				 --- 		 取代 GUI 的 memset 函数。
+N 	GUI_NUM_LAYERS 			1 		 定义可用层 / 显示器的最大数量。
+B 	GUI_TRIAL_VERSION 	0 		 将编译器的输出标为评估版。
+B 	GUI_WINSUPPORT 			0 		 启用可选窗口管理器支持。
+N 	GUI_PID_BUFFER_SIZE 5 		 输入缓冲器管理的 PID 事件的最大数量。
+N 	GUI_KEY_BUFFER_SIZE 10 		 输入缓冲器管理的键事件的最大数量。
+
+
+GUI_ALLOC_GetNumFreeBytes() 返回实际空闲的字节数。
+GUI_ALLOC_GetNumUsedBytes() 返回应用实际使用的字节数。

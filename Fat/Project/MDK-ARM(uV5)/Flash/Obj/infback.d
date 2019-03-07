@@ -1,0 +1,12 @@
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\infback.c
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\zutil.h
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\zlib.h
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\zconf.h
+.\flash\obj\infback.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\obj\infback.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\infback.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\infback.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\inftrees.h
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\inflate.h
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\inffast.h
+.\flash\obj\infback.o: ..\..\Libraries\STemWin\PNG\inffixed.h

@@ -1,0 +1,17 @@
+.\flash\obj\ff_time.o: ..\..\FreeRTOS-Plus-FAT\ff_time.c
+.\flash\obj\ff_time.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\obj\ff_time.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\flash\obj\ff_time.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\include\FreeRTOS.h
+.\flash\obj\ff_time.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\obj\ff_time.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\obj\ff_time.o: ..\..\User\FreeRTOSConfig.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\include\projdefs.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\include\portable.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\include\task.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS\include\list.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS-Plus-FAT\include\ff_time.h
+.\flash\obj\ff_time.o: ..\..\FreeRTOS-Plus-FAT\include\FreeRTOSFATConfig.h

@@ -1,0 +1,14 @@
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS-Plus-CLI\FreeRTOS_CLI.c
+.\flash\obj\freertos_cli.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\freertos_cli.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\include\FreeRTOS.h
+.\flash\obj\freertos_cli.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\obj\freertos_cli.o: ..\..\User\FreeRTOSConfig.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\include\projdefs.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\include\portable.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\include\task.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS\include\list.h
+.\flash\obj\freertos_cli.o: ..\..\FreeRTOS-Plus-CLI\FreeRTOS_CLI.h

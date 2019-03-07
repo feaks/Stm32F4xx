@@ -1,0 +1,9 @@
+.\flash\obj\inftrees.o: ..\..\Libraries\STemWin\PNG\inftrees.c
+.\flash\obj\inftrees.o: ..\..\Libraries\STemWin\PNG\zutil.h
+.\flash\obj\inftrees.o: ..\..\Libraries\STemWin\PNG\zlib.h
+.\flash\obj\inftrees.o: ..\..\Libraries\STemWin\PNG\zconf.h
+.\flash\obj\inftrees.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\obj\inftrees.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\inftrees.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\inftrees.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\flash\obj\inftrees.o: ..\..\Libraries\STemWin\PNG\inftrees.h

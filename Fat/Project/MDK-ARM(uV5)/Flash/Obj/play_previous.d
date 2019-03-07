@@ -1,0 +1,9 @@
+.\flash\obj\play_previous.o: ..\..\User\gui\src\play_previous.c
+.\flash\obj\play_previous.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\play_previous.o: ..\..\Libraries\STemWin\inc\GUI.h
+.\flash\obj\play_previous.o: ..\..\Libraries\STemWin\inc\GUI_ConfDefaults.h
+.\flash\obj\play_previous.o: ..\..\Libraries\STemWin\Config\GUIConf.h
+.\flash\obj\play_previous.o: ..\..\Libraries\STemWin\inc\GUI_Type.h
+.\flash\obj\play_previous.o: ..\..\Libraries\STemWin\inc\LCD.h
+.\flash\obj\play_previous.o: ..\..\Libraries\STemWin\inc\Global.h
+.\flash\obj\play_previous.o: ..\..\Libraries\STemWin\inc\GUI_Version.h

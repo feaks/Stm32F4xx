@@ -1,0 +1,10 @@
+.\flash\obj\pngwio.o: ..\..\Libraries\STemWin\PNG\pngwio.c
+.\flash\obj\pngwio.o: ..\..\Libraries\STemWin\PNG\png.h
+.\flash\obj\pngwio.o: ..\..\Libraries\STemWin\PNG\zlib.h
+.\flash\obj\pngwio.o: ..\..\Libraries\STemWin\PNG\zconf.h
+.\flash\obj\pngwio.o: ..\..\Libraries\STemWin\PNG\pngconf.h
+.\flash\obj\pngwio.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\flash\obj\pngwio.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\pngwio.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\pngwio.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\flash\obj\pngwio.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h

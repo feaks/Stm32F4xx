@@ -1,0 +1,10 @@
+.\flash\obj\pngread.o: ..\..\Libraries\STemWin\PNG\pngread.c
+.\flash\obj\pngread.o: ..\..\Libraries\STemWin\PNG\png.h
+.\flash\obj\pngread.o: ..\..\Libraries\STemWin\PNG\zlib.h
+.\flash\obj\pngread.o: ..\..\Libraries\STemWin\PNG\zconf.h
+.\flash\obj\pngread.o: ..\..\Libraries\STemWin\PNG\pngconf.h
+.\flash\obj\pngread.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\flash\obj\pngread.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\pngread.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\pngread.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\flash\obj\pngread.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h

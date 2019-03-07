@@ -1,0 +1,10 @@
+.\flash\obj\crc32.o: ..\..\Libraries\STemWin\PNG\crc32.c
+.\flash\obj\crc32.o: ..\..\Libraries\STemWin\PNG\zutil.h
+.\flash\obj\crc32.o: ..\..\Libraries\STemWin\PNG\zlib.h
+.\flash\obj\crc32.o: ..\..\Libraries\STemWin\PNG\zconf.h
+.\flash\obj\crc32.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\obj\crc32.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\crc32.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\crc32.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\flash\obj\crc32.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\flash\obj\crc32.o: ..\..\Libraries\STemWin\PNG\crc32.h

@@ -1,0 +1,11 @@
+.\flash\obj\inffast.o: ..\..\Libraries\STemWin\PNG\inffast.c
+.\flash\obj\inffast.o: ..\..\Libraries\STemWin\PNG\zutil.h
+.\flash\obj\inffast.o: ..\..\Libraries\STemWin\PNG\zlib.h
+.\flash\obj\inffast.o: ..\..\Libraries\STemWin\PNG\zconf.h
+.\flash\obj\inffast.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\obj\inffast.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\inffast.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\inffast.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\flash\obj\inffast.o: ..\..\Libraries\STemWin\PNG\inftrees.h
+.\flash\obj\inffast.o: ..\..\Libraries\STemWin\PNG\inflate.h
+.\flash\obj\inffast.o: ..\..\Libraries\STemWin\PNG\inffast.h

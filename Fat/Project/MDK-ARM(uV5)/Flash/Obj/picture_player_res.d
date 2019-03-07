@@ -1,0 +1,9 @@
+.\flash\obj\picture_player_res.o: ..\..\User\gui\src\picture_player_res.c
+.\flash\obj\picture_player_res.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\obj\picture_player_res.o: ..\..\Libraries\STemWin\inc\GUI.h
+.\flash\obj\picture_player_res.o: ..\..\Libraries\STemWin\inc\GUI_ConfDefaults.h
+.\flash\obj\picture_player_res.o: ..\..\Libraries\STemWin\Config\GUIConf.h
+.\flash\obj\picture_player_res.o: ..\..\Libraries\STemWin\inc\GUI_Type.h
+.\flash\obj\picture_player_res.o: ..\..\Libraries\STemWin\inc\LCD.h
+.\flash\obj\picture_player_res.o: ..\..\Libraries\STemWin\inc\Global.h
+.\flash\obj\picture_player_res.o: ..\..\Libraries\STemWin\inc\GUI_Version.h
