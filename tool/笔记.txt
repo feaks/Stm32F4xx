@@ -1,0 +1,38 @@
+
+
+ProductKey:						a1IQnndIVtY
+ProductSecret:					dombnPDnBJhGiTaN
+DeviceName:						sensor
+DeviceSecret:					PM7fDLxSvuUoDYGjTZe2IRYX9kSchfwP
+
+Topic:							/a1IQnndIVtY/sensor/sensor_data
+RegionID:						cn-shanghai
+
+clientId:						8056f2f2c01d	(mac 地址)
+timestamp:						123456
+/*****************************/
+
+连接域名:	a1IQnndIVtY.iot-as-mqtt.cn-shanghai.aliyuncs.com
+ip 地址：	139.196.135.135
+port:		1883
+
+
+mqttClientId:		8056f2f2c01d|securemode=3,signmethod=hmacsha1,timestamp=123456|
+mqttUsername:		sensor&a1IQnndIVtY
+mqttPassword:		
+					key:		PM7fDLxSvuUoDYGjTZe2IRYX9kSchfwP
+					content:	clientId8056f2f2c01ddeviceNamesensorproductKeya1IQnndIVtYtimestamp123456
+					hmac:		0dac29262c34d38d795485f47c34a9db800f7bbd
+					
+
+
+
+
+/**********************************************************/
+
+	1: Mqtt 连接 / 登录
+	2：订阅消息			Ali iot  下发数据到 STM32F4单片机中				OK
+	3：发布消息			STM32F4单片机 上传数据到 Ali iot平台			OK
+
+	
+
